@@ -241,9 +241,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- Documentation: [docs.useagenticai.in](https://docs.useagenticai.in)
+- Documentation: [useagenticai.in](https://useagenticai.in)
 - Issues: [GitHub Issues](https://github.com/AgenticAI-Ind/content-seo-agent/issues)
-- Email: support@useagenticai.in
+- Email: info@useagenticai.in
 
 ---
 
